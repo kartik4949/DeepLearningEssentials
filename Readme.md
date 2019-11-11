@@ -17,7 +17,7 @@ This Repo contains Deep Learning(Computer Vision) Essentials
   * Image Generators
 
 ## Usage
-Usefull for Building Basic to Advance CV projects
+Useful for Building Basic to Advance CV projects
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
