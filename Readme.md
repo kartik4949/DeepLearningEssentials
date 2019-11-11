@@ -1,9 +1,9 @@
 # About
 This Repo contains Deep Learning(Computer Vision) Essentials
- Markup : * Books
-              * Python
-              * Tensorfow
-              * Deep Learning
+ Markup : *Books
+              *Python
+              *Tensorfow
+              *Deep Learning
           * References and Paper
               * Arxiv 
               * IEEE
