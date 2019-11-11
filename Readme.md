@@ -1,20 +1,20 @@
 # About
 This Repo contains Deep Learning(Computer Vision) Essentials
- Markup : * Books
-              * Python
-              * Tensorfow
-              * Deep Learning
-          * References and Paper
-              * Arxiv 
-              * IEEE
-          * Code Snippets
-              * Tensorflow snippets
-              * Keras
-          * Source Code
-              * Project Source Code
-              * Building Blocks (Common CV building blocks)
-              * Data Augmentation 
-              * Image Generators
+* Books
+  * Python
+  * Tensorfow
+  * Deep Learning
+* References and Paper
+  * Arxiv 
+  * IEEE
+* Code Snippets
+  * Tensorflow snippets
+  * Keras
+* Source Code
+  * Project Source Code
+  * Building Blocks (Common CV building blocks)
+  * Data Augmentation 
+  * Image Generators
 
 ## Usage
 Usefull for Building Basic to Advance CV projects
